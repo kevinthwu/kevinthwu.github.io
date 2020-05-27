@@ -14,6 +14,6 @@ Hi! I am a 3rd year Ph.D. candidate in the Department of Computer Science, Unive
 
 Publications
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
+  <ul>{% for post in site.publications reversed %}
+	{% include archive-single-cv.html %}
   {% endfor %}</ul>
