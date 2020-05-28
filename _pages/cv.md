@@ -7,11 +7,12 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 Kevin Tien-Hsuan Wu (吳典軒)
 ======
 thwu AT cs.hku.hk
+
 Rm. 417, Chow Yei Ching Bldg., University of Hong Kong, Hong Kong
 
 Education
