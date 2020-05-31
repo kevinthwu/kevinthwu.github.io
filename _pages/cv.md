@@ -18,6 +18,8 @@ Education
 ======
 * Ph.D Candidate (Current)
 * B.Eng. in Computer Science, University of Hong Kong, 2017
+	* First Class Honours
+	* Minor in Finance
 
 Work experience
 ======
