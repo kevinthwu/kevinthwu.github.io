@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am a 3rd year Ph.D. candidate in the Department of Computer Science, University of Hong Kong, under the supervision of Prof. Ben Kao. My research interests include knowledge base, information extraction and data mining applications.
+Hi! I am a 4th year Ph.D. candidate in the Department of Computer Science, University of Hong Kong, under the supervision of Prof. Ben Kao. My research interests include knowledge base, information extraction and data mining applications.
 
 Publications
 ======
