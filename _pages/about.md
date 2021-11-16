@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am a post-doctoral fellow at the Department of Computer Science, University of Hong Kong. Previously I received my PhD degree from the University of Hong Kong under the supervision of Prof. Ben Kao. My research interests include knowledge basse, information extraction and legal technology applications.
+Hi! I am a post-doctoral fellow at the Department of Computer Science, University of Hong Kong. Previously I received my PhD degree from the University of Hong Kong under the supervision of Prof. Ben Kao. My research interests include knowledge base, information extraction and legal technology applications.
 
 Publications
 ======
