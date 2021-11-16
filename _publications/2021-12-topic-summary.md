@@ -1,7 +1,7 @@
 ---
-title: "Integrating Domain Knowledge in AI-assisted Criminal Sentencing of Drug Trafficking Cases"
+title: "Semantic Search and Summarization of Judgments Using Topic Modeling"
 collection: publications
-permalink: /publication/predictor
+permalink: /publication/topic-summary
 excerpt: ""
 date: 2021-12-09
 venue: "JURIX"
