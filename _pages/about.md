@@ -10,7 +10,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am a lecturer at the Tam Wing Fan Innovation Wing, Faculty of Engineering, HKU. I received my PhD degree from the University of Hong Kong under the supervision of Prof. Ben Kao. 
+Hi! I am a Lecturer at the Tam Wing Fan Innovation Wing, Faculty of Engineering, HKU. I received my PhD degree from the University of Hong Kong under the supervision of Prof. Ben Kao. 
 <!-- My research interests include knowledge-based systems, information extraction and legal technology applications. -->
  In my current role, I organize and lead out-of-classroom engineering learning activities. Opportunities for collaboration are welcomed, so please feel free to reach out!
 
