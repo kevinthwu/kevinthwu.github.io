@@ -10,9 +10,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I am a Lecturer at the Innovation Academy, Faculty of Engineering, HKU. I received my PhD degree from the University of Hong Kong under the supervision of Prof. Ben Kao. My research interests include knowledge-based systems, information extraction and legal technology applications.
+I am a Lecturer at the Innovation Academy, Faculty of Engineering at the University of Hong Kong. My work centers on leading out-of-classroom student development initiatives, empowering emerging engineers to translate theory into real-world impact through hands-on, multidisciplinary projects.
 
-I organize and lead out-of-classroom engineering learning activities. Opportunities for collaboration are welcomed, so please feel free to reach out!
+Beyond standard coursework, I design and mentor experiential learning programs, technical competitions, and collaborative engineering challenges. I actively welcome partnerships with educators, industry practitioners, and student teams. Please feel free to reach out to explore potential collaborations.
 
 
 Publications
